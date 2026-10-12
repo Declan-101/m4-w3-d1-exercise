@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should match the expected UI snapshot 1`] = `
+Array [
+  <div>
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+]
+`;
